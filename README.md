@@ -15,6 +15,27 @@ FRiDGE is a modern, AI-powered smart kitchen assistant that helps you manage you
 - **User Preferences**: Customize your experience with dietary preferences and cuisine types
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
+🖼️ FRiDGE App Demo Screenshots
+
+
+Feature	Screenshot	Description
+📊 Dashboard	
+Shows real-time inventory, shopping list, and upcoming meal plans in a single view.
+📈 Analytics	
+Visual breakdown of grocery spending, expired items, and inventory by category.
+🔍 Recipe Search	
+Users can search for recipes using the Spoonacular API and add them to their meal plan.
+🛒 Shopping List	
+Tracks needed items, quantities, and categories with toggles for purchased status.
+⚙️ Settings & Preferences	
+Users can toggle dark mode, meal plan notifications, and set dietary preferences.
+📅 Preferences Panel	
+Configure meal suggestions based on diet type and cuisine.
+📄 Project Build & Analysis
+
+📘 Coming soon... A downloadable PDF will be added here to explain the development process, tech stack, challenges faced, and future improvements.
+
+
 ## Tech Stack
 
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS

@@ -1,0 +1,2 @@
+// Create a ref to track processed meal IDs
+  const processedMealIdsRef = useRef(new Set<string>());

@@ -13,10 +13,8 @@ FRiDGE is a modern, AI-powered smart kitchen assistant that helps you manage you
 - **Expiry Alerts**: Get notified when items are about to expire to reduce food waste
 - **Food Waste Tracking**: Monitor your progress in reducing food waste
 - **User Preferences**: Customize your experience with dietary preferences and cuisine types
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
 
 🖼️ FRiDGE App Demo Screenshots
-
 
 Feature	Screenshot	Description
 📊 Dashboard	
